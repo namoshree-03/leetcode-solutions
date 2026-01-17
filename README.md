@@ -17,10 +17,6 @@ The goal of this repository is to improve problem-solving skills, strengthen Dat
 ## 🎯 Topics Covered
 - Arrays
 - Strings
-- Linked Lists
-- Stacks & Queues
-- Hashing
-- Recursion
 - Sorting & Searching
 - Basic Dynamic Programming
 - More coming soon...
